@@ -2,15 +2,6 @@
 ## About
 A Website implemented using MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack, which allows users to sign-in/register and book movie tickets online.
 
-## Snapshots of the website
-
-1. Snapshot - 1
-
-![Screenshot 1](/snapshots/screenshot-1.png)
-
-2. Snapshot - 2
-
-![Screenshot 1](/snapshots/screenshot-2.png)
 
 ## Things to Download before you proceed
 I used the MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack for this project.
