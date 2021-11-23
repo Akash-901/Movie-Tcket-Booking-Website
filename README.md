@@ -55,12 +55,3 @@ Now open another terminal and cd to the MovieGo directory. Run the following cod
 `$ npm start`
 
 and you shall see that the website is loaded on your localhost port 3000.
-
-## Currently Working On
-- Using Bootstrap to make the website responsive.
-
-- Different categories of seats with different prices like 'Gold - Rs. 150', 'Silver - Rs. 100' and 'Regular - Rs. 50'.
-
-- ReactJS Pagination.
-
-- Users can book multiple seats at the same time.
