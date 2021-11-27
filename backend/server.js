@@ -10,7 +10,7 @@ var passportLocalMongoose = require("passport-local-mongoose");
 
 var app = express();
 
-//app.set('view engine', 'ejs');
+
 app.use(cors({
     origin: "http://localhost:3000", // restrict calls to those this address
     credentials: true,
@@ -121,14 +121,7 @@ router.post('/seats', function(req, res){
         }
     });
 
-    /*Booking.find({booking: /^tt1596343\/01-11-2019\/07:45/g}, function(err, data){
-        if(err){
-            console.log(err);
-        }
-        else{
-            console.log(data);
-        }
-    });*/
+  
 });
 
 router.get('/logout', function(req, res){
